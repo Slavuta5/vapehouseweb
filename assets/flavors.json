@@ -1,0 +1,22 @@
+[
+  {"name": "🍒 Вишня", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍒❄️ Вишня ментол", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍉 Кавун", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍉❄️ Кавун ментол", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍓 Полуниця", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🫐❄️ Чорниця ментол", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🫐🧊 Смородина ментол", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🫐🍓 Ягоди", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍒 Черешня", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🥝 Ківі", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍇 Виноград", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🔷🍓 Блакитна малина", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍑 Персик", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍈 Диня", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍈 Абрикос", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍓 Жовта малина", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍃 М'ята", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍋 Лимон", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🍓 Барбарис Limited", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true},
+  {"name": "🥶🍓 Крижана малина", "brand": "Chaser", "line": "For Pods", "price": "240 грн", "inStock": true}
+]
